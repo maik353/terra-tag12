@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "eu-north-1"
-  access_key = "AKIAZG3FFTUH72ORCZMR"
-  secret_key = "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"
+  access_key = "AKIAZG3FFTUHZ6OPPQIF"
+  secret_key = "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"
 }
 
 # Create a bucket
